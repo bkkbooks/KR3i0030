@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0030/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 揚州芍藥譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:18:37.840325'
+  source:
+    repository: kanripo
+    path: KR3i0030/KR3i0030_000.txt
+hash: sha256:a7cdd74d72f1147a49f06f1d5d9b61a934e065de8e0e20678de0d1c519caea20

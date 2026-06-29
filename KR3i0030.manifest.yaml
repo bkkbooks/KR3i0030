@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR3i0030/v1
+canonical_location: https://kanripo.org/bkk/KR3i0030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 揚州芍藥譜
+  date: '2015-08-24 23:18:37.840325'
+  source:
+    repository: kanripo
+    path: KR3i0030
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0030_000.yaml, hash: 'sha256:a7cdd74d72f1147a49f06f1d5d9b61a934e065de8e0e20678de0d1c519caea20'}
+  - {seq: 1, filename: KR3i0030_001.yaml, hash: 'sha256:d5a25144517c7c1fa3ac123d9e63be661d2b7594b654e5d2f6561e2ae81f3752'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3i0030_001.markers.yaml, hash: 'sha256:6de0ba69066e5ba04306286c1a61c1bd54ca5855401d654af67c3591fb27eac7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3i0030_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2311
+  label: 揚州芍藥譜
+  type: section
+  level: 1
+hash: sha256:c23949b3057b705344117253ef02d7fd0ba1217482bba38196b84d7e81b57683
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

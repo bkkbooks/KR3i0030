@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0030/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 揚州芍藥譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:18:37.840325'
+  source:
+    repository: kanripo
+    path: KR3i0030/KR3i0030_000.txt
+hash: sha256:fbc24deaba76a859998ffe63d0706d1ad6dc714d2c201ed953bcb029cba8b1ac

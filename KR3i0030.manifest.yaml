@@ -21,9 +21,9 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR3i0030_000.yaml, hash: 'sha256:a7cdd74d72f1147a49f06f1d5d9b61a934e065de8e0e20678de0d1c519caea20'}
-  - {seq: 1, filename: KR3i0030_001.yaml, hash: 'sha256:d5a25144517c7c1fa3ac123d9e63be661d2b7594b654e5d2f6561e2ae81f3752'}
+  - {seq: 1, filename: KR3i0030_001.yaml, hash: 'sha256:15b0c78bac46ab38f5cd505fbf63939305e2ee144dc65047c58136e832172382'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0030_001.markers.yaml, hash: 'sha256:6de0ba69066e5ba04306286c1a61c1bd54ca5855401d654af67c3591fb27eac7'}
+  - {seq: 1, role: markers, filename: assets/KR3i0030_001.markers.yaml, hash: 'sha256:c2f933aa120fac5ac8fe1eed42e6109992265d42a0b06ceff9f866f06728855a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 揚州芍藥譜
   type: section
   level: 1
-hash: sha256:c23949b3057b705344117253ef02d7fd0ba1217482bba38196b84d7e81b57683
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:57f84f67ccbb46a0a457a895adecc3e257d6df3a5afd425890a95e0ad89a6d68
